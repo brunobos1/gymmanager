@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "name": "Bruno Santos",
+      "email": "brunobos21@gmail.com",
+      "birth": 789091200000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "82",
+      "height": "171",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Laís Marques",
+      "email": "lais@gmail.com.br",
+      "gender": "F",
+      "blood": "O+",
+      "weight": "60",
+      "height": "150",
+      "birth": 911952000000
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Forde",
+      "avatar_url": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "birth": 820627200000,
+      "gender": "M",
+      "services": "musculação",
+      "created_at": 1619743711327
+    },
+    {
+      "id": 2,
+      "name": "Fara",
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "birth": 641692800000,
+      "gender": "F",
+      "services": "Crossfit, musculação",
+      "created_at": 1620775420747
+    }
+  ]
+}
